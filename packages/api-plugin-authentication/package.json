@@ -39,7 +39,7 @@
     "envalid": "^6.0.2",
     "graphql-tag": "^2.10.0",
     "jwt-decode": "^3.1.2",
-    "mongoose": "^6.0.4",
+    "mongoose": "^8.8.3",
     "node-fetch": "^2.6.0",
     "simpl-schema": "^1.5.7"
   },
